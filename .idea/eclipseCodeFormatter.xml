@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1499305630477" />
+        <option name="importOrdering" value="ECLIPSE_44" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="D:/Server/CodeFormatter-lem.xml" />
+        <option name="selectedJavaProfile" value="CodeFormatter-lem" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </Settings>
+    </option>
+  </component>
+</project>
